@@ -1,5 +1,5 @@
 <div align="center">
-<h3>Camp <a href="https://ioasys.com.br/">Ioasys</a> - Android | <a href="https://developer.android.com/">Kotlin</a></h3>
+<h3>Fourcamp <a href="https://foursys.com.br/">Foursys</a> - Android | <a href="https://developer.android.com/">Java</a></h3>
 </div>
 
 
@@ -15,38 +15,36 @@
 <div align="center">
 <hr>
 
-<h4>Imersão: O que é o Camp?  </h3>
+<h4>Jornada Base: O que é?  </h3>
 
-Camp é um programa de formação completo e conta com conteúdos imersivos, talks, desafios
+Fourcamp é um programa de formação completo e conta com conteúdos imersivos, talks, desafios
 práticos, mentorias e muito mais. Objetivo é auxiliar na formação de profissionais prontos para encarar o mercado. Combinando
-conceitos teóricos com processos interativos, Preparar para desenvolver soluções inovadoras que transformam a sociedade.
+conceitos teóricos com processos interativos, preparar para desenvolver soluções inovadoras que transformam a sociedade como soft skills, hard skills, mindset ágil, desing thinking, scrum, desing de interfaces, lógica de programação, oratória e muito mais.
 
-No total, são mais de 50 horas de aprendizado intenso, com interação virtual entre os mentores e participantes. 
+No total, são mais de 370 horas de aprendizado intenso em 3 meses, com interação virtual entre os mentores e participantes. 
  
  </div>
 
 <div align="center">
 <hr>
 
-<h3>Ioasys: O que é?  </h3>
+<h3>Foursys: O que é?  </h3>
 
-A ioasys faz parte do Grupo Alpargatas,
-uma empresa centenária, global e inovadora.
+A foursys faz parte de uma das melhores empresas para se trabalhar com tecnologia,
+uma empresa lean, global e inovadora.
 </div>
 
 <div align="center">
 <hr>
 
-<h4>Etapa 01 - O que é a fase de imersão? ✅ </h4>
+<h4>Etapa 01 - O que é a fase de Jornada Base? ✅ </h4>
 
-Do dia 11 de janeiro até 25 de fevereiro é o momento de ficar imerso
+Do dia 01 de março até 29 de março é o momento de ficar imerso
 em conteúdos e aprendizados com os melhores professores e mentores.
 
-Ao total, serão 10 módulos com aulas síncronas, assíncronas e conteúdos complementares.
+Ao total, serão módulos com aulas síncronas, assíncronas e conteúdos complementares.
 
-As aulas ao vivo poderão acontecer até 3 vezes na semana, com média entre 1 e 2 horas de
-duração, entre as 13h e as 18h (horário de Brasília).
-
+ 
 Uma experiência imersiva completa!
 
 </div>
@@ -54,32 +52,85 @@ Uma experiência imersiva completa!
 <div align="center">
 <hr>
 
-<h4>Semana #01  (11 de janeiro até 14 de janeiro) ✅ </h4>
+<h4>Etapa 02  (02 a 06 de maio) ✅ </h4>
 
-* Modulo #01 | Linguagem Kotlin
-* Modulo #02 | Conceitos básicos de uma aplicação
+* Modulo #01 | Linguagem de Programação
+* Modulo #02 | Apresentação do projeto Nivel Básico
+* Modulo #03 | Stack Nivel Intermediario
+* Modulo #04 | Apresentação do Projeto Nivel Intermediario
 
-Neste módulo o grupo irá aprender os fundamentos da linguagem kotlin e como instalar e configurar o android studio.
+Neste módulo aprendendi os fundamentos da linguagem Java e como instalar e configurar o android studio.
 
 </div>
 
 <div align="center">
  <hr>
  
- <h4>Semana #02  (17 de janeiro até 21 de janeiro) ✅ </h4>
+ <h4>Etapa 03  (Conteúdo Programático) ✅ </h4>
 
-* Modulo #03 | Componentes gráficos I
-* Modulo #04 | Componentes gráficos II
-* Modulo #05 | Fragment e Navigation
+* Sessão #01 | Java Básico
+* Sessão #02 | Java POO
+* Sessão #03 | Layouts
+* Sessão #04 | Activits e Ciclos de vida
+* Sessão #05 | FindViewById e ViewBinding
+* Sessãoo #06 | Navegação entre telas
+* Sessão #07 | Passando dados entre telas
+* Sessão #08 | Fragments e ciclos
+* Sessão #09 | Parcelable e Serializable
+* Sessão #09 | Listas e RecyclerView
+* Sessão #09 | Git e Gitflow
+* Sessão #09 | Shared Preferences
+* Sessão #09 | Room e SQLite
+* Sessão #09 | Arquitetura MVVM
+* Sessão #09 | View Model e LiveData
+* Sessão #09 | APIS e Json
+* Sessão #09 | Retrofit e HTTP
+* Sessão #09 | Firebase
+ 
+ 
+ </div>
 
- Como criar interfaces gráficas para que os usuários possam interagir
+<div align="center">
+ <hr>
+ 
+ 
+
+Nesta etapa eu aprendi como criar interfaces gráficas para que os usuários possam interagir
 com o seu aplicativo;
 
-Daremos continuidade nas interfaces gráficas porém trabalhando com views dinâmicas e componentização
+Dei continuidade nas interfaces gráficas porém trabalhando com views dinâmicas e componentização
 para acelerar o desenvolvimento;
 
 Navegar entre as telas e trabalhar com fragmentos de layout para ter mais
 performance na aplicação;
+ 
+Passar e recuperar dados entre telas;
+ 
+A diferença fundamental entre o que é Fragment e uma Activity para ser apresentado;
+ 
+RecyclerView é uma “evolução” da ListView e da GridView, componentes presentes desde da primeira versão do Android para se fazer listas e grades;
+ 
+Git é o sistema de controle de versão open source mais usado no mundo atualmente, Ele é usado para controlar o histórico de alterações de arquivos e principalmente de projetos de desenvolvimento de software;
+ 
+SharedPreferences é na verdade uma interface de trabalho, nativa do Android, para armazenamento de dados primitivos em um arquivo XML interno, arquivo de responsabilidade do aplicativo;
+ 
+Room é uma das bibliotecas existentes dentro do conjunto apresentado durante o Google I/O de 2018, ela auxilia os desenvolvedores criando uma abstração das camadas de banco de dados (SQLite);
+ 
+MVVM de preferência nos casos em que a ligação com DataContext é possível, com esta ligação de dados atraente, segue um modelo de programação mais reativo e produz menos códigos;
+ 
+ViewModel foi projetada para armazenar e gerenciar dados relacionados à IU considerando o ciclo de vida. A classe ViewModel permite que os dados sobrevivam às mudanças de configuração, como a rotação da tela;
+ 
+API é um conjunto de rotinas e padrões de programação para acesso a um aplicativo de software ou plataforma baseado na Web;
+ 
+JSON pode representar dois tipos estruturados: objetos e matrizes; 
+ 
+Retrofit é uma API desenvolvida pela Square seguindo padrão REST, fornecendo um padrão simples de implementação para transmissão de dados entre aplicação e servidor, que faz uso do JSON;
+ 
+Firebase é uma plataforma do Google que contém várias ferramentas e uma excelente infraestrutura para ajudar desenvolvedores web e mobile a criar aplicações de alta qualidade e performance. 
+ 
+
+ 
+
 
 </div>
 
@@ -88,18 +139,13 @@ performance na aplicação;
  <hr>
  
  
- <h4>Semana #03  (24 de janeiro até 28 de janeiro) ✅ </h4>
+ <h4>Etapa 04  (Projeto Final) ✅ </h4>
 
-*  Modulo #06 | Camada de apresentação 
-*  Modulo #07 | Camada de repositório
-*  Modulo #08 | API REST e Retrofit
-
-Um pouco sobre a arquitetura MVVM e injeção de dependência;
+Tive um desafio, onde serei avaliado ao longo de toda a fase do fourcamp. Serão Analisados desempenho técnico de cada um, 
+o engajamento, presença, aplicações utilizadas e muito mais.
  
-Arquitetura separando ainda mais as camadas para tornar a aplicação 
-mais testável e robusta;
-
-Integrar o aplicativo com o backend utilizando REST com retrofit;
+ 
+ 
 
 </div>
 
@@ -107,31 +153,45 @@ Integrar o aplicativo com o backend utilizando REST com retrofit;
 
  <hr>
  
- <h4>Semana #04  (31 de janeiro até 4 de fevereiro)✅ </h4>
+ <h4>Etapa 05  (Case do Desafiio)✅ </h4>
 
-* Modulo #09 | Camada de apresentação 
-* Modulo #10 | Camada de repositório
+* Sessão #01 | Banco Digital
+* Sessão #02 | Conta Corrente
+* Sessão #03 | Conta Poupança
+* Sessão #04 | Conta Comum
+* Sessão #05 | Conta Super
+* Sessão #06 | Conta Premium
+* Sessão #07 | Cadastro de usuarios
+* Sessão #08 | Transferências Ted e Doc
+* Sessão #09 | Pix
+* Sessão #10 | Pagamentos com Boletos
+* Sessão #11 | Consórcios
+* Sessão #12 | Seguros
+* Sessão #13 | Cobrança
+* Sessão #14 | Recuperar conta
+* Sessão #15 | Editar dados 
+* Sessão #16 | Foto do usuario
+* Sessão #17 | Saldo
+* Sessão #18 | Notificações
+* Sessão #19 | Cartões
+* Sessão #20 | Recarga de telefone
+* Sessão #21 | Depósito
+* Sessão #22 | Extrato
 
-Aprender a como persistir os dados localmente utilizando Room e SharedPreferences
+ 
+Coloquei tudo em prática em um projeto "real" de um banco totalmente digital. O nome do aplicativo é LinkBank (fazendo referencias a links, que fazem conexões de todos os tipos).
+ 
+Utilizei desing thinking para elaboração e prototipação do projeto, mapa de personas, os 5 porques, crazy eight, bm canvas, story board, planos de negócios, mapa de calores, valores e  utilizando metodologias ágeis,
+algumas ferramentas como MIRO, FIGMA, DESING MATERIAL, FIREBASE, SCRUM, TRELLO e APIS.
 
-Clean Architecture e os princípios do SOLID para melhorar ainda mais; 
-a qualidade da aplicação;
+
 
 </div>
 
 <div align="center">
 <hr>
  
- <h4>DESAFIO  (Divulgação dos aprovados no dia 4 de março) :clock10: </h4>
 
-
-Depois da fase de imersão, teremos um desafio e apenas os campers que mais se destacarem participarão.
-Seremos avaliados ao longo de toda a fase de imersão. Analisados desempenho técnico de cada um, 
-o engajamento, presença e muito mais.
- <hr>
- </div>
-    
-  
 
 
   
